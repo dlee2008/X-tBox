@@ -11,7 +11,7 @@ CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV1,https://tv.iill.top/migu/cctv1
 CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=e493cfb8acac08441bd3f02db99a7b16bbf75adf3d3d9b8d563e38506dd09e877c0600ec029eb861a8e112d9f898d92af5290907c8e2b1c0e0f956d88090ee87eeb9f2dad8364f56d4a9f38d3e
-CCTV10,http://39.164.180.36:19901/tsfile/live/0009_1.m3u8
+CCTV10,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8
 CCTV10,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000321/index.m3u8?IASHttpSessionId=
 CCTV10,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/index.m3u8
 CCTV10,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000506
