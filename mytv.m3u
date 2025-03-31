@@ -2042,7 +2042,7 @@ http://61.133.118.228:5001/yy/24180320
 #EXTINF:-1 tvg-name="经典动漫",经典动漫
 https://lunbo.freetv.top/yy/22777075
 
-# 分类: 其他 (2232个频道)
+# 分类: 其他 (2233个频道)
 #EXTINF:-1 tvg-name="4K南国都市频道",4K南国都市频道
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 tvg-name="4K南国都市频道",4K南国都市频道
@@ -6411,6 +6411,8 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv13
 http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 #EXTINF:-1 tvg-name="中视新闻",中视新闻
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台",寰宇新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="镜新闻",镜新闻
 https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv075
 #EXTINF:-1 tvg-name="公视",公视
