@@ -4085,7 +4085,7 @@ tvN,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 羽球直播,http://play.cbalive.weibisai.com/live/3738204362677061_AiHD.m3u8?txSecret=bbb70d7d9704d6be30ebe94e8757a147&txTime=673672E0
 羽球直播,http://play.cbalive.weibisai.com/live/3738205416028061_AiHD.m3u8?txSecret=5d3007e91c1c87632e5653a853960a10&txTime=6737D270
 羽球直播,http://play.cbalive.weibisai.com/live/3779448148561061_AiHD.m3u8?txSecret=8f67123284cab39750d0f2b7e8b7e1cc&txTime=676E5E80
-羽球直播,http://play.cbalive.weibisai.com/live/3848580017390061_AiHD.m3u8?txSecret=dc86d6a7a8fb9326664e28a59d97a4c2&txTime=67E11100
+羽球直播,http://play.cbalive.weibisai.com/live/3895418985251061_AiHD.m3u8?txSecret=e8aa717921353de5d3ddb837e407b90c&txTime=683279A0
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
@@ -7093,7 +7093,7 @@ tvN,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 羽球直播,http://play.cbalive.weibisai.com/live/3738204362677061_AiHD.m3u8?txSecret=bbb70d7d9704d6be30ebe94e8757a147&txTime=673672E0
 羽球直播,http://play.cbalive.weibisai.com/live/3738205416028061_AiHD.m3u8?txSecret=5d3007e91c1c87632e5653a853960a10&txTime=6737D270
 羽球直播,http://play.cbalive.weibisai.com/live/3779448148561061_AiHD.m3u8?txSecret=8f67123284cab39750d0f2b7e8b7e1cc&txTime=676E5E80
-羽球直播,http://play.cbalive.weibisai.com/live/3848580017390061_AiHD.m3u8?txSecret=dc86d6a7a8fb9326664e28a59d97a4c2&txTime=67E11100
+羽球直播,http://play.cbalive.weibisai.com/live/3895418985251061_AiHD.m3u8?txSecret=e8aa717921353de5d3ddb837e407b90c&txTime=683279A0
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
