@@ -3538,9 +3538,9 @@ tvN,https://zjtv01.tv12.xyz/tvN
 美亚电影粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 羽球直播,http://play.cbalive.weibisai.com/live/3738204362677061_AiHD.m3u8?txSecret=bbb70d7d9704d6be30ebe94e8757a147&txTime=673672E0
-羽球直播,http://play.cbalive.weibisai.com/live/3915976663419061_AiHD.m3u8?txSecret=5fea089cda10d692506d580a732856ba&txTime=68422F80
-羽球直播,http://play.cbalive.weibisai.com/live/3915976832858061_AiHD.m3u8?txSecret=effe4300a6e93326111cf7db4c6b2363&txTime=68422F80
 羽球直播,http://play.cbalive.weibisai.com/live/3915977934014061_AiHD.m3u8?txSecret=f46032dae1e8d6a8ae2d0ebb32f1aa25&txTime=68422F80
+羽球直播,http://play.cbalive.weibisai.com/live/3921642534169061_AiHD.m3u8?txSecret=be6617680882a8b55a61d63b60f7ab41&txTime=6843B940
+羽球直播,http://play.cbalive.weibisai.com/live/3921642982870061_AiHD.m3u8?txSecret=edaf77e9981f4189c32cda31aff845b1&txTime=6843B940
 舟山公共,http://[2409:8087:2801:22:100::7d]/wh7f454c46tw1855934095_-299144317/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8
 舟山公共,http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86
 舟山公共生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8?fmt=ts2hls#http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86#http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=1731130201-a2fc060b90ff4f4988ae4a352840ef1b-0-198f4b8d2965de929ac120e526d12590
@@ -5353,9 +5353,9 @@ tvN,https://zjtv01.tv12.xyz/tvN
 美亚电影粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 羽球直播,http://play.cbalive.weibisai.com/live/3738204362677061_AiHD.m3u8?txSecret=bbb70d7d9704d6be30ebe94e8757a147&txTime=673672E0
-羽球直播,http://play.cbalive.weibisai.com/live/3915976663419061_AiHD.m3u8?txSecret=5fea089cda10d692506d580a732856ba&txTime=68422F80
-羽球直播,http://play.cbalive.weibisai.com/live/3915976832858061_AiHD.m3u8?txSecret=effe4300a6e93326111cf7db4c6b2363&txTime=68422F80
 羽球直播,http://play.cbalive.weibisai.com/live/3915977934014061_AiHD.m3u8?txSecret=f46032dae1e8d6a8ae2d0ebb32f1aa25&txTime=68422F80
+羽球直播,http://play.cbalive.weibisai.com/live/3921642534169061_AiHD.m3u8?txSecret=be6617680882a8b55a61d63b60f7ab41&txTime=6843B940
+羽球直播,http://play.cbalive.weibisai.com/live/3921642982870061_AiHD.m3u8?txSecret=edaf77e9981f4189c32cda31aff845b1&txTime=6843B940
 舟山公共,http://[2409:8087:2801:22:100::7d]/wh7f454c46tw1855934095_-299144317/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8
 舟山公共,http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86
 舟山公共生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8?fmt=ts2hls#http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86#http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=1731130201-a2fc060b90ff4f4988ae4a352840ef1b-0-198f4b8d2965de929ac120e526d12590
